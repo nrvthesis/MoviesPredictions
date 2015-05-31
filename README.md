@@ -25,6 +25,8 @@ After installing R, run it and launch this command to install some packages :
 $ install.packages("psych")
 $ install.packages("clue")
 
+Also, the package numpy is required for python 2.7.
+
 Codes are commented if you want to modify it.
 
 © Hervé Eerebout & Nicolas Pirotte (nrv team)
