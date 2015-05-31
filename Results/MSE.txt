@@ -1,0 +1,15 @@
+MSE of clustersLinNoWeight = 1.10365834072
+MSE of clustersLinWeight = 1.01251332252
+MSE of clustersPolyNoWeight = 1.08956696972
+MSE of clustersNoCoeffWeight = 1.01386575886
+MSE of clustersNoCoeffNoWeight = 1.103725618
+MSE of clustersPolyWeight = 0.997857569016
+MSE of KnnNoCoeffWeight = 1.03716422194
+MSE of KnnPolyNoWeight = 1.099009167
+MSE of KnnPolyWeight = 1.00479057195
+MSE of KnnLinWeight = 1.02046801816
+MSE of KnnLinNoWeight = 1.1150697964
+MSE of KnnNoCoefNofWeight = 1.1295185501
+MSE of average = 1.25005915676
+MSE of linear = 1.1976680774
+MSE of poly = 1.16905735819
